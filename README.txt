@@ -1,6 +1,6 @@
-# St542Project
-This is a repository for our project 5.
-# Introduction the basic information about our 10 files.
+#### St542Project
+
+#### Introduction the basic information about our 10 files.
 File 1: It seems to be same as the file2. This file includes TTCT score of 249 students.
         But I am confused about why there is a missing Aug Fluency SA in this file.
         Should we add this column from the pdf of FormA?
@@ -13,5 +13,10 @@ File 8: High school GPA. About 249 student for this reasearch and the others are
 File 9-10: pdf of TTCT scores.
 File 11: Quiz demo for creativity assessment.
 
-# merge these files into __ datesets.
+##### merge these files into 4 datesets.
+dataset1: TTCT scores. And I added from AugFlurencySA score pdf into this dataset.
+dataset2: columns A-Y are demographic information. Y-AI are Questions from creativity quiz.
+dataset3: Merge file 6 and 7 into this dataset. columns A-Y are demographic information. Y-AI are Questions from creativity quiz. 
+        F1-F5 columns are factual Questions
+dataset4: GPA information. XX mean students were not in study, but left in dataset in case you wanted to use GPA data
 
